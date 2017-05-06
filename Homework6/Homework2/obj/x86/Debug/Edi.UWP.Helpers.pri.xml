@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Edi.UWP.Helpers" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Edi.UWP.Helpers">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="Edi.UWP.Helpers.rd.xml" uri="ms-resource://Edi.UWP.Helpers/Files/Edi.UWP.Helpers/Properties/Edi.UWP.Helpers.rd.xml">
+						<Candidate type="Path">
+							<Value>Edi.UWP.Helpers\Properties\Edi.UWP.Helpers.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
